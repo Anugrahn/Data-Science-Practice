@@ -10,4 +10,4 @@ This repo all about my data science analysis, with many subject, porject and man
 - Analysis data for many subject 
 - etc
 
-You can reach me on this email anugrahnrhm@gmail.com,  Feel free to ask and start discuss! 
+You can reach me on this email anugrahnrhmd@gmail.com,  Feel free to ask and start discuss! 
