@@ -1,0 +1,15 @@
+To do list : 
+
+Insight data 
+- Total corona confirm, not confirm, recovered, deaths
+- breakdown setiap harinya sampe ytd 
+- breakdown ke geopandas
+
+- Lihat trend di pusat corona yaitu Wuhan, Hubei. 
+- Bandingkan dengan Indonesia
+- lebih fokus especially indo 
+- kesimpulan yang diambil
+
+Upaya untuk pencegahan virus
+
+- Kesimpulan
